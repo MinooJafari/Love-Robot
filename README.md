@@ -1,0 +1,1 @@
+This robot automates message composition and delivery on Telegram and WhatsApp by generating and sending text messages to a specified recipient without requiring manual typing. It can automatically formulate and reproduce messages on behalf of the user, streamlining communication through messaging platforms.
